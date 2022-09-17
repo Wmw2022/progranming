@@ -12,3 +12,10 @@ public static class caculate1
 			return b;
 	}
 }
+public static class caculate2
+{
+	public void Hello()
+	{
+		System.out.println("Hello world!");
+	}
+}
